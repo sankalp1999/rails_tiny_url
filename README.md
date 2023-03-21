@@ -1,24 +1,11 @@
-# README
+To clone a repository from GitHub, you can use the following command in your terminal:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+`git clone https://github.com/sankalp1999/rails_tiny_url.git`
+After cloning the repository, navigate to the project directory and install any dependencies by running:
 
-Things you may want to cover:
+`bundle install`
+Then, you can start the Rails server by running:
 
-* Ruby version
+`rails server`
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This will start the application on your local machine and you can access it by going to http://localhost:3000 in your web browser.
