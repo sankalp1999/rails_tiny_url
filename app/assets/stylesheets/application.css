@@ -1,0 +1,15 @@
+/* app/assets/stylesheets/application.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: auto;
+    text-align: center;
+  }
+  
